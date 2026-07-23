@@ -34,7 +34,7 @@ I use AI agents across discovery, architecture, implementation, debugging, testi
 | **[Voice-First Survey App](https://github.com/Larriemoses/Voice-First-Survey-App)** | A multi-tenant research platform that replaces form-heavy feedback with natural voice responses. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/Voice-First-Survey-App?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/Voice-First-Survey-App/commits) |
 | **[FlowMeld](https://github.com/Larriemoses/FlowMeld)** | An AI-powered life, team, and content orchestrator with customizable agents and collaborative planning. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/FlowMeld?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/FlowMeld/commits) |
 | **[Nuyu Recovery Home](https://github.com/Larriemoses/Nuyu-Recovery-Home)** | A full-stack booking and operations platform with availability controls, payments, and admin analytics. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/Nuyu-Recovery-Home?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/Nuyu-Recovery-Home/commits) |
-| **[Discount Region](https://github.com/Larriemoses/Eragon)** · [Live](https://discountregion.com) | A full-stack platform for discovering verified discount codes and time-sensitive offers. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/Eragon?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/Eragon/commits) |
+| **[Discount Region](https://github.com/Larriemoses/Eragon)** | A full-stack platform for discovering verified discount codes and time-sensitive offers. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/Eragon?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/Eragon/commits) |
 | **[Discount Center](https://github.com/Larriemoses/Discount-Center)** · [Live](https://discountcenterstores.com) | A fast, search-focused deals and coupon discovery product for shoppers in Nigeria and Africa. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/Discount-Center?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/Discount-Center/commits) |
 | **[AI Security Learning Lab](https://github.com/Larriemoses/AI-Security-Learning-Lab)** | A public engineering log covering applied AI, LLM evaluation, AI security, cloud, and cybersecurity. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/AI-Security-Learning-Lab?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/AI-Security-Learning-Lab/commits) |
 
@@ -49,7 +49,7 @@ I use AI agents across discovery, architecture, implementation, debugging, testi
 The streak and contribution panels are my live daily build indicators. Repository update badges above show the latest activity for each featured project.
 
 <div align="center">
-  <img height="170" alt="Olarewaju's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Larriemoses&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark">
+  <img height="170" alt="Olarewaju's GitHub activity summary" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Larriemoses&theme=github_dark">
   <img height="170" alt="Olarewaju's contribution streak" src="https://streak-stats.demolab.com?user=Larriemoses&hide_border=true&theme=github-dark-blue">
 </div>
 
