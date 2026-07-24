@@ -1,75 +1,147 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Olarewaju Adebulu — AI Software Engineer, Technical Writer, and AI & LLM Research Writer">
+</p>
 
-# Olarewaju Adebulu
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=980&lines=AI+Software+Engineer;Technical+Writer;AI+%26+LLM+Research+Writer;Building+intelligent+web+%26+mobile+products" alt="Animated roles">
+</p>
 
-### Software Engineer · AI Agent Builder · Product Engineer
-
-I build thoughtful web and mobile products where full-stack engineering meets practical AI.
-
-<p>
+<p align="center">
   <a href="mailto:larriemoses@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/olarewajuadebulu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://larriemoses.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Read_on_Medium-111827?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://x.com/larriemoses"><img alt="X" src="https://img.shields.io/badge/@larriemoses-111827?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
-</div>
+## A little about me
 
-## Building useful software with intelligent systems
+I’m **Olarewaju Adebulu**, a product-minded AI software engineer and technical communicator based in Nigeria. I build intelligent web and mobile products, then make the ideas behind them easier to understand through clear technical and research writing.
 
-I am a product-minded software engineer focused on turning real problems into clear, reliable experiences. My work spans AI agents, voice interfaces, full-stack platforms, responsive web applications, and mobile-first products.
+My work sits at the intersection of **AI agents, full-stack engineering, LLM research, product thinking, and developer education**. I enjoy moving from a fuzzy problem to a useful product—researching deeply, designing the system, shipping the experience, and documenting what matters.
 
-I use AI agents across discovery, architecture, implementation, debugging, testing, and documentation—while keeping product judgment, verification, security, and user experience human-led.
+> **My working philosophy:** Research deeply. Build simply. Explain clearly. Verify before shipping.
 
-## What I bring
-
-- **AI agents and intelligent workflows** — agentic systems, LLM integration, evaluation, automation, and human-in-the-loop experiences.
-- **Web and mobile product engineering** — responsive interfaces, accessible interaction design, APIs, databases, and deployment.
-- **Full-stack delivery** — from product thinking and system design to implementation, testing, and shipping.
-- **AI trust and security** — practical exploration of model behavior, prompt injection, risk, and safer AI systems.
-
-## Featured work
-
-| Project | What it does | Repository pulse |
-| --- | --- | --- |
-| **[Voice-First Survey App](https://github.com/Larriemoses/Voice-First-Survey-App)** | A multi-tenant research platform that replaces form-heavy feedback with natural voice responses. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/Voice-First-Survey-App?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/Voice-First-Survey-App/commits) |
-| **[FlowMeld](https://github.com/Larriemoses/FlowMeld)** | An AI-powered life, team, and content orchestrator with customizable agents and collaborative planning. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/FlowMeld?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/FlowMeld/commits) |
-| **[Nuyu Recovery Home](https://github.com/Larriemoses/Nuyu-Recovery-Home)** | A full-stack booking and operations platform with availability controls, payments, and admin analytics. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/Nuyu-Recovery-Home?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/Nuyu-Recovery-Home/commits) |
-| **[Discount Region](https://github.com/Larriemoses/Eragon)** | A full-stack platform for discovering verified discount codes and time-sensitive offers. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/Eragon?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/Eragon/commits) |
-| **[Discount Center](https://github.com/Larriemoses/Discount-Center)** · [Live](https://discountcenterstores.com) | A fast, search-focused deals and coupon discovery product for shoppers in Nigeria and Africa. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/Discount-Center?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/Discount-Center/commits) |
-| **[AI Security Learning Lab](https://github.com/Larriemoses/AI-Security-Learning-Lab)** | A public engineering log covering applied AI, LLM evaluation, AI security, cloud, and cybersecurity. | [![Last update](https://img.shields.io/github/last-commit/Larriemoses/AI-Security-Learning-Lab?style=flat-square&label=updated&color=0969da)](https://github.com/Larriemoses/AI-Security-Learning-Lab/commits) |
-
-## Tools I build with
+## What I do
 
 <p align="center">
-  <img alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Python, Django, PostgreSQL, Supabase, Tailwind CSS, AWS, Git, and GitHub" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,django,postgres,supabase,tailwind,aws,git,github&perline=14">
+  <img src="./assets/focus.svg" width="100%" alt="AI Software Engineering, Technical Writing, and AI & LLM Research Writing">
 </p>
 
-## Engineering activity
+### The work behind the titles
 
-The streak and contribution panels are my live daily build indicators. Repository update badges above show the latest activity for each featured project.
+- **AI software engineering** — building agentic workflows, LLM-powered features, voice experiences, APIs, and production-ready web and mobile products.
+- **Technical writing** — turning complex systems into useful documentation, tutorials, product narratives, and developer-friendly explanations.
+- **AI & LLM research writing** — exploring model behavior, evaluation, human-in-the-loop systems, responsible adoption, and the practical impact of intelligent software.
 
-<div align="center">
-  <img height="170" alt="Olarewaju's GitHub activity summary" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Larriemoses&theme=github_dark">
-  <img height="170" alt="Olarewaju's contribution streak" src="https://streak-stats.demolab.com?user=Larriemoses&hide_border=true&theme=github-dark-blue">
-</div>
+## What I’m exploring now
 
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Agentic products</h3>
+      Designing AI agents that support real work with clear boundaries, useful memory, thoughtful orchestration, and human oversight.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ Voice-first experiences</h3>
+      Exploring natural voice interfaces for research, feedback, accessibility, and lower-friction human-computer interaction.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 LLM research & evaluation</h3>
+      Studying how language models behave, how we evaluate useful outputs, and how research becomes better product decisions.
+    </td>
+    <td width="50%" valign="top">
+      <h3>✍🏽 Developer communication</h3>
+      Writing technical content that helps builders understand systems, make informed choices, and move from theory to implementation.
+    </td>
+  </tr>
+</table>
 
-<img width="100%" alt="Olarewaju's contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Larriemoses&theme=github-compact&hide_border=true&area=true&custom_title=Daily%20engineering%20activity">
+## Writing & research
 
-## Current focus
+I write for engineers, product builders, technical teams, and curious people navigating AI. My aim is not to make complex topics sound impressive—it is to make them **clear, accurate, and useful**.
 
-- Building useful AI agents that fit real workflows instead of adding unnecessary complexity.
-- Creating clear voice, web, and mobile experiences for products people can understand quickly.
-- Improving AI evaluation, trust, safety, and security through hands-on engineering.
-- Collaborating on ambitious products where thoughtful design and strong execution matter.
+<p>
+  <a href="https://larriemoses.medium.com"><img alt="Read my articles on Medium" src="https://img.shields.io/badge/Explore_my_writing_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="mailto:larriemoses@gmail.com?subject=Technical%20Writing%20or%20AI%20Research%20Collaboration"><img alt="Discuss a writing collaboration" src="https://img.shields.io/badge/Discuss_a_writing_project-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white"></a>
+</p>
+
+**Topics I care about:** AI agents · LLM evaluation · AI product design · voice interfaces · human-centered AI · software architecture · developer education · technical documentation.
+
+## Technology I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,django,postgres,supabase,tailwind,aws,git,github&perline=14" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Python, Django, PostgreSQL, Supabase, Tailwind CSS, AWS, Git, and GitHub">
+</p>
+
+<p align="center">
+  <code>Product discovery</code> · <code>System design</code> · <code>Prompt design</code> · <code>LLM evaluation</code> · <code>API architecture</code> · <code>Technical documentation</code>
+</p>
+
+## Live build signals
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Larriemoses&theme=github_dark" alt="GitHub activity summary">
+  <img height="165" src="https://streak-stats.demolab.com?user=Larriemoses&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak">
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Larriemoses&theme=github-compact&hide_border=true&area=true&custom_title=Daily%20engineering%20activity" alt="Daily engineering activity graph">
+</p>
+
+## Selected products
+
+Repositories come after the story because code matters most when the problem and product thinking are clear.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Larriemoses/Voice-First-Survey-App">Voice-First Survey App</a></h3>
+      A multi-tenant research platform that lets people respond naturally by voice instead of fighting long forms.
+      <br><br>
+      <img src="https://img.shields.io/github/last-commit/Larriemoses/Voice-First-Survey-App?style=flat-square&label=latest%20build&color=58A6FF" alt="Latest Voice-First Survey App update">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Larriemoses/FlowMeld">FlowMeld</a></h3>
+      An AI-powered life, team, and content orchestrator built around customizable agents and collaborative planning.
+      <br><br>
+      <img src="https://img.shields.io/github/last-commit/Larriemoses/FlowMeld?style=flat-square&label=latest%20build&color=7C3AED" alt="Latest FlowMeld update">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Larriemoses/Nuyu-Recovery-Home">Nuyu Recovery Home</a></h3>
+      A full-stack booking and operations product with scheduling controls, payments, and administrative insights.
+      <br><br>
+      <img src="https://img.shields.io/github/last-commit/Larriemoses/Nuyu-Recovery-Home?style=flat-square&label=latest%20build&color=06B6D4" alt="Latest Nuyu Recovery Home update">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Larriemoses/Discount-Center">Discount Center</a></h3>
+      A fast, search-focused product for discovering relevant discounts and offers across Nigeria and Africa.
+      <br><br>
+      <img src="https://img.shields.io/github/last-commit/Larriemoses/Discount-Center?style=flat-square&label=latest%20build&color=10B981" alt="Latest Discount Center update">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Larriemoses?tab=repositories"><img alt="Explore all repositories" src="https://img.shields.io/badge/Explore_all_repositories-161B22?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Let’s turn a useful idea into a clear, intelligent product.</h2>
 
-**Have a product, AI workflow, or engineering problem worth solving?**
+<p align="center">
+  I’m open to thoughtful product collaborations, AI engineering work, technical writing, and AI/LLM research writing.
+</p>
 
-[Email me](mailto:larriemoses@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/olarewajuadebulu) · [Follow on X](https://x.com/larriemoses)
+<p align="center">
+  <a href="mailto:larriemoses@gmail.com"><img alt="Start a conversation" src="https://img.shields.io/badge/Start_a_conversation-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/olarewajuadebulu"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-</div>
+<p align="center">
+  <sub>Built with curiosity, clear thinking, and a bias toward useful things.</sub>
+</p>
