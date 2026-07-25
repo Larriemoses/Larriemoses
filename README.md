@@ -103,10 +103,10 @@ Repositories come after the story because code matters most when the problem and
       <img src="https://img.shields.io/github/last-commit/Larriemoses/Voice-First-Survey-App?style=flat-square&label=latest%20build&color=58A6FF" alt="Latest Voice-First Survey App update">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Larriemoses/FlowMeld">FlowMeld</a></h3>
-      An AI-powered life, team, and content orchestrator built around customizable agents and collaborative planning.
+      <h3><a href="https://github.com/Larriemoses/faithcine-website">FaithCine</a></h3>
+      Official FaithCine website for Christian films, Gospel media, Scripture tools, children's content, and the FaithCine Journal.
       <br><br>
-      <img src="https://img.shields.io/github/last-commit/Larriemoses/FlowMeld?style=flat-square&label=latest%20build&color=7C3AED" alt="Latest FlowMeld update">
+      <img src="https://img.shields.io/github/last-commit/Larriemoses/faithcine-website?style=flat-square&label=latest%20build&color=7C3AED" alt="Latest FaithCine update">
     </td>
   </tr>
   <tr>
