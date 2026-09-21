@@ -1,147 +1,102 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Olarewaju Adebulu — AI Software Engineer, Technical Writer, and AI & LLM Research Writer">
+  <img src="./assets/hero.svg" width="100%" alt="Olarewaju Adebulu — AI software engineer and technical communicator">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=980&lines=AI+Software+Engineer;Technical+Writer;AI+%26+LLM+Research+Writer;Building+intelligent+web+%26+mobile+products" alt="Animated roles">
-</p>
-
-<p align="center">
-  <a href="mailto:larriemoses@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Larriemoses?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/olarewajuadebulu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://larriemoses.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Read_on_Medium-111827?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://x.com/larriemoses"><img alt="X" src="https://img.shields.io/badge/@larriemoses-111827?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://larriemoses.medium.com"><img alt="Writing" src="https://img.shields.io/badge/Writing-111827?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
-## A little about me
+<p align="center"><strong>AI software engineer · product builder · technical communicator</strong></p>
+<p align="center">I research difficult problems, build useful AI products, and explain the systems clearly enough for other people to trust and use them.</p>
 
-I’m **Olarewaju Adebulu**, a product-minded AI software engineer and technical communicator based in Nigeria. I build intelligent web and mobile products, then make the ideas behind them easier to understand through clear technical and research writing.
+## Current focus
 
-My work sits at the intersection of **AI agents, full-stack engineering, LLM research, product thinking, and developer education**. I enjoy moving from a fuzzy problem to a useful product—researching deeply, designing the system, shipping the experience, and documenting what matters.
+### 🔐 [Sycrely](https://github.com/Larriemoses/sycrely)
 
-> **My working philosophy:** Research deeply. Build simply. Explain clearly. Verify before shipping.
+An experimental local-first privacy editor for people who want to use hosted AI without unnecessarily exposing names, contact details, financial information, or confidential ideas.
 
-## What I do
+Sycrely asks a simple question: **what exactly leaves the device?** It explores local prompt analysis, protected previews, privacy minimisation versus answer usefulness, Nigerian-language evaluation, browser inference and AI-security threat modelling.
 
-<p align="center">
-  <img src="./assets/focus.svg" width="100%" alt="AI Software Engineering, Technical Writing, and AI & LLM Research Writing">
-</p>
+> Sycrely is currently an experimental prototype, not a replacement for enterprise DLP or a guarantee of perfect privacy.
 
-### The work behind the titles
+### 🧪 AI product research and evaluation
 
-- **AI software engineering** — building agentic workflows, LLM-powered features, voice experiences, APIs, and production-ready web and mobile products.
-- **Technical writing** — turning complex systems into useful documentation, tutorials, product narratives, and developer-friendly explanations.
-- **AI & LLM research writing** — exploring model behavior, evaluation, human-in-the-loop systems, responsible adoption, and the practical impact of intelligent software.
+I study how AI products should handle uncertainty, human review, sensitive context, hallucinations and real-world evaluation. My work moves between product discovery, system design, implementation, security analysis and technical documentation.
 
-## What I’m exploring now
+## Selected work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Agentic products</h3>
-      Designing AI agents that support real work with clear boundaries, useful memory, thoughtful orchestration, and human oversight.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎙️ Voice-first experiences</h3>
-      Exploring natural voice interfaces for research, feedback, accessibility, and lower-friction human-computer interaction.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 LLM research & evaluation</h3>
-      Studying how language models behave, how we evaluate useful outputs, and how research becomes better product decisions.
-    </td>
-    <td width="50%" valign="top">
-      <h3>✍🏽 Developer communication</h3>
-      Writing technical content that helps builders understand systems, make informed choices, and move from theory to implementation.
-    </td>
-  </tr>
-</table>
+### [Sycrely](https://github.com/Larriemoses/sycrely) · AI privacy research
+Local-first privacy editor and research prototype with local classification, purpose-aware privacy policies, encrypted browser sessions, outbound previews, annotation workflows and a documented threat model.
 
-## Writing & research
+### [irinabo](https://github.com/Larriemoses/irinabo) · WhatsApp-first reporting
+A TypeScript product for journey reporting, protected routing and accountable follow-up.
 
-I write for engineers, product builders, technical teams, and curious people navigating AI. My aim is not to make complex topics sound impressive—it is to make them **clear, accurate, and useful**.
+### [FaithCine](https://github.com/Larriemoses/faithcine-website) · media platform
+A Christian media platform for films, Gospel content, Scripture tools, children’s content and editorial publishing.
 
-<p>
-  <a href="https://larriemoses.medium.com"><img alt="Read my articles on Medium" src="https://img.shields.io/badge/Explore_my_writing_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="mailto:larriemoses@gmail.com?subject=Technical%20Writing%20or%20AI%20Research%20Collaboration"><img alt="Discuss a writing collaboration" src="https://img.shields.io/badge/Discuss_a_writing_project-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white"></a>
-</p>
+### [FaithCine Selah](https://github.com/Larriemoses/faithcine-selah) · mobile experience
+An Expo and Supabase scripture meditation app with AI-assisted sessions, journaling and audio meditation.
 
-**Topics I care about:** AI agents · LLM evaluation · AI product design · voice interfaces · human-centered AI · software architecture · developer education · technical documentation.
+### [Voice-First Survey App](https://github.com/Larriemoses/Voice-First-Survey-App) · voice research
+A multi-tenant research platform designed to let people respond naturally by voice instead of navigating long forms.
 
-## Technology I work with
+### [Nuyu Recovery Home](https://github.com/Larriemoses/Nuyu-Recovery-Home) · operations product
+A full-stack booking and operations product with scheduling, payments and administrative workflows.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,django,postgres,supabase,tailwind,aws,git,github&perline=14" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Python, Django, PostgreSQL, Supabase, Tailwind CSS, AWS, Git, and GitHub">
-</p>
+### [AI Security Learning Lab](https://github.com/Larriemoses/AI-Security-Learning-Lab) · research documentation
+A structured, research-driven record of learning about AI security, machine learning, cloud platforms and technical communication.
 
-<p align="center">
-  <code>Product discovery</code> · <code>System design</code> · <code>Prompt design</code> · <code>LLM evaluation</code> · <code>API architecture</code> · <code>Technical documentation</code>
-</p>
+### [WaHustle](https://github.com/Larriemoses/WaHustle) · conversational commerce
+A WhatsApp bot designed to support sales workflows.
 
-## Live build signals
+### [Apexium Website](https://github.com/Larriemoses/Apexium-Website) · business platform
+A professional business-support website focused on regulatory compliance and legal documentation.
 
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Larriemoses&theme=github_dark" alt="GitHub activity summary">
-  <img height="165" src="https://streak-stats.demolab.com?user=Larriemoses&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak">
-</p>
+### [Eragon](https://github.com/Larriemoses/Eragon) · commerce utility
+A coupon-code web product built with Django and React.
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Larriemoses&theme=github-compact&hide_border=true&area=true&custom_title=Daily%20engineering%20activity" alt="Daily engineering activity graph">
-</p>
+### [FlowMeld](https://github.com/Larriemoses/FlowMeld) · AI orchestration
+An AI-powered life and team orchestration project.
 
-## Selected products
+### [Discount Center](https://github.com/Larriemoses/Discount-Center) · search product
+A search-focused product for discovering relevant discounts and offers across Nigeria and Africa.
 
-Repositories come after the story because code matters most when the problem and product thinking are clear.
+### [LMPortfolio](https://github.com/Larriemoses/LMPortfolio) · portfolio system
+A TypeScript portfolio project documenting product and engineering work.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Larriemoses/Voice-First-Survey-App">Voice-First Survey App</a></h3>
-      A multi-tenant research platform that lets people respond naturally by voice instead of fighting long forms.
-      <br><br>
-      <img src="https://img.shields.io/github/last-commit/Larriemoses/Voice-First-Survey-App?style=flat-square&label=latest%20build&color=58A6FF" alt="Latest Voice-First Survey App update">
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Larriemoses/faithcine-website">FaithCine</a></h3>
-      Official FaithCine website for Christian films, Gospel media, Scripture tools, children's content, and the FaithCine Journal.
-      <br><br>
-      <img src="https://img.shields.io/github/last-commit/Larriemoses/faithcine-website?style=flat-square&label=latest%20build&color=7C3AED" alt="Latest FaithCine update">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Larriemoses/Nuyu-Recovery-Home">Nuyu Recovery Home</a></h3>
-      A full-stack booking and operations product with scheduling controls, payments, and administrative insights.
-      <br><br>
-      <img src="https://img.shields.io/github/last-commit/Larriemoses/Nuyu-Recovery-Home?style=flat-square&label=latest%20build&color=06B6D4" alt="Latest Nuyu Recovery Home update">
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Larriemoses/Discount-Center">Discount Center</a></h3>
-      A fast, search-focused product for discovering relevant discounts and offers across Nigeria and Africa.
-      <br><br>
-      <img src="https://img.shields.io/github/last-commit/Larriemoses/Discount-Center?style=flat-square&label=latest%20build&color=10B981" alt="Latest Discount Center update">
-    </td>
-  </tr>
-</table>
+### [MMPP](https://github.com/Larriemoses/MMPP) · JavaScript project
+An earlier JavaScript product and experimentation repository.
 
-<p align="center">
-  <a href="https://github.com/Larriemoses?tab=repositories"><img alt="Explore all repositories" src="https://img.shields.io/badge/Explore_all_repositories-161B22?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+### [TailorMind Assessment](https://github.com/Larriemoses/TailorMind_Assessment) · assessment product
+A TypeScript assessment project released under the GNU GPL v3.0.
 
----
+### [Reac Projects](https://github.com/Larriemoses/Reac_Projects) · frontend practice
+A collection of earlier ReactJS projects and experiments.
 
-<h2 align="center">Let’s turn a useful idea into a clear, intelligent product.</h2>
+## Build philosophy
 
-<p align="center">
-  I’m open to thoughtful product collaborations, AI engineering work, technical writing, and AI/LLM research writing.
-</p>
+I take a problem from uncertainty to something useful:
 
-<p align="center">
-  <a href="mailto:larriemoses@gmail.com"><img alt="Start a conversation" src="https://img.shields.io/badge/Start_a_conversation-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/olarewajuadebulu"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+1. Research the problem and its users.
+2. Define a focused product boundary.
+3. Build a simple working system.
+4. Test the experience and the failure cases.
+5. Document what is true, uncertain and worth improving.
 
-<p align="center">
-  <sub>Built with curiosity, clear thinking, and a bias toward useful things.</sub>
-</p>
+> Research deeply. Build simply. Explain clearly. Verify before shipping.
+
+## Tools and interests
+
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `Supabase` · `AWS` · `LLM evaluation` · `system design`
+
+AI software engineering · privacy-preserving AI · agentic products · voice interfaces · human-centred AI · product design · technical writing · developer education
+
+## Let’s build something useful
+
+I’m open to thoughtful collaborations in AI engineering, privacy-aware product development, technical writing, research communication and LLM evaluation.
+
+Explore my [repositories](https://github.com/Larriemoses?tab=repositories), read my [writing](https://larriemoses.medium.com), or connect through [LinkedIn](https://www.linkedin.com/in/olarewajuadebulu).
+
+<p align="center"><sub>Research deeply · build simply · explain clearly · verify before shipping.</sub></p>
