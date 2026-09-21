@@ -1,102 +1,62 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Olarewaju Adebulu — AI software engineer and technical communicator">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0F766E,100:111827&height=220&section=header&text=Olarewaju%20Adebulu&fontSize=52&fontColor=E6FFFB&fontAlignY=38&desc=AI%20software%20engineer%20%E2%80%A2%20product%20builder%20%E2%80%A2%20technical%20communicator&descAlignY=62&descSize=18" width="100%" alt="Olarewaju Adebulu — AI software engineer">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Larriemoses?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/olarewajuadebulu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://larriemoses.medium.com"><img alt="Writing" src="https://img.shields.io/badge/Writing-111827?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&width=900&lines=Designing+AI+products+with+clear+boundaries;Building+privacy-aware+systems;Evaluating+LLMs+in+the+real+world;Research+%E2%86%92+system+design+%E2%86%92+useful+software" alt="Animated AI engineering roles">
 </p>
 
-<p align="center"><strong>AI software engineer · product builder · technical communicator</strong></p>
-<p align="center">I research difficult problems, build useful AI products, and explain the systems clearly enough for other people to trust and use them.</p>
+<p align="center"><a href="https://github.com/Larriemoses?tab=repositories">Repositories</a> · <a href="https://www.linkedin.com/in/olarewajuadebulu">LinkedIn</a> · <a href="https://larriemoses.medium.com">Writing</a></p>
+<p align="center"><code>observe()</code> → <code>research()</code> → <code>design()</code> → <code>build()</code> → <code>verify()</code></p>
 
 ## Current focus
 
 ### 🔐 [Sycrely](https://github.com/Larriemoses/sycrely)
 
-An experimental local-first privacy editor for people who want to use hosted AI without unnecessarily exposing names, contact details, financial information, or confidential ideas.
+I’m building Sycrely, an experimental local-first privacy editor for hosted AI. It explores how people can inspect and minimize sensitive context before a prompt leaves the device.
 
-Sycrely asks a simple question: **what exactly leaves the device?** It explores local prompt analysis, protected previews, privacy minimisation versus answer usefulness, Nigerian-language evaluation, browser inference and AI-security threat modelling.
+My current research combines local classification, LLM evaluation, privacy engineering, Nigerian-language context, security threat modelling and answer usefulness.
 
-> Sycrely is currently an experimental prototype, not a replacement for enterprise DLP or a guarantee of perfect privacy.
+> Sycrely is an experimental prototype—not a guarantee of perfect privacy or a replacement for enterprise DLP.
 
-### 🧪 AI product research and evaluation
+## Featured builds
 
-I study how AI products should handle uncertainty, human review, sensitive context, hallucinations and real-world evaluation. My work moves between product discovery, system design, implementation, security analysis and technical documentation.
+<table>
+  <tr>
+    <td width="50%" valign="top"><h3>01 · <a href="https://github.com/Larriemoses/irinabo">irinabo</a></h3><p>WhatsApp-first journey reporting with protected routing and accountable follow-up.</p><sub>TypeScript · reporting systems · protected workflows</sub></td>
+    <td width="50%" valign="top"><h3>02 · <a href="https://github.com/Larriemoses/sycrely">sycrely</a></h3><p>Privacy-first AI gateway prototype with local semantic protection and encrypted sessions.</p><sub>TypeScript · Next.js · privacy engineering</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><h3>03 · <a href="https://github.com/Larriemoses/faithcine-selah">faithcine-selah</a></h3><p>Scripture meditation app with AI-assisted sessions, journaling and audio meditation.</p><sub>TypeScript · Expo · Supabase · mobile UX</sub></td>
+    <td width="50%" valign="top"><h3>04 · <a href="https://github.com/Larriemoses/AI-Security-Learning-Lab">AI-Security-Learning-Lab</a></h3><p>Research-driven documentation of AI security, machine learning and cloud learning.</p><sub>AI security · technical writing · research</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><h3>05 · <a href="https://github.com/Larriemoses/Apexium-Website">Apexium-Website</a></h3><p>Business-support platform focused on compliance, legal documentation and reliable operations.</p><sub>TypeScript · business systems · web product</sub></td>
+    <td width="50%" valign="top"><h3>06 · <a href="https://github.com/Larriemoses/faithcine-website">faithcine-website</a></h3><p>Christian media platform for films, Gospel media, Scripture tools and the FaithCine Journal.</p><sub>TypeScript · Next.js · publishing platform</sub></td>
+  </tr>
+</table>
 
-## Selected work
+## Engineering interests
 
-### [Sycrely](https://github.com/Larriemoses/sycrely) · AI privacy research
-Local-first privacy editor and research prototype with local classification, purpose-aware privacy policies, encrypted browser sessions, outbound previews, annotation workflows and a documented threat model.
+`text
+AI systems       ████████████████████  agents · LLM evaluation · product intelligence
+Privacy tech     ███████████████░░░░░  local inference · minimisation · threat modelling
+Product design   █████████████████░░░  useful workflows · human review · clear interfaces
+Communication    ██████████████████░░  technical writing · research · developer education
+`
 
-### [irinabo](https://github.com/Larriemoses/irinabo) · WhatsApp-first reporting
-A TypeScript product for journey reporting, protected routing and accountable follow-up.
-
-### [FaithCine](https://github.com/Larriemoses/faithcine-website) · media platform
-A Christian media platform for films, Gospel content, Scripture tools, children’s content and editorial publishing.
-
-### [FaithCine Selah](https://github.com/Larriemoses/faithcine-selah) · mobile experience
-An Expo and Supabase scripture meditation app with AI-assisted sessions, journaling and audio meditation.
-
-### [Voice-First Survey App](https://github.com/Larriemoses/Voice-First-Survey-App) · voice research
-A multi-tenant research platform designed to let people respond naturally by voice instead of navigating long forms.
-
-### [Nuyu Recovery Home](https://github.com/Larriemoses/Nuyu-Recovery-Home) · operations product
-A full-stack booking and operations product with scheduling, payments and administrative workflows.
-
-### [AI Security Learning Lab](https://github.com/Larriemoses/AI-Security-Learning-Lab) · research documentation
-A structured, research-driven record of learning about AI security, machine learning, cloud platforms and technical communication.
-
-### [WaHustle](https://github.com/Larriemoses/WaHustle) · conversational commerce
-A WhatsApp bot designed to support sales workflows.
-
-### [Apexium Website](https://github.com/Larriemoses/Apexium-Website) · business platform
-A professional business-support website focused on regulatory compliance and legal documentation.
-
-### [Eragon](https://github.com/Larriemoses/Eragon) · commerce utility
-A coupon-code web product built with Django and React.
-
-### [FlowMeld](https://github.com/Larriemoses/FlowMeld) · AI orchestration
-An AI-powered life and team orchestration project.
-
-### [Discount Center](https://github.com/Larriemoses/Discount-Center) · search product
-A search-focused product for discovering relevant discounts and offers across Nigeria and Africa.
-
-### [LMPortfolio](https://github.com/Larriemoses/LMPortfolio) · portfolio system
-A TypeScript portfolio project documenting product and engineering work.
-
-### [MMPP](https://github.com/Larriemoses/MMPP) · JavaScript project
-An earlier JavaScript product and experimentation repository.
-
-### [TailorMind Assessment](https://github.com/Larriemoses/TailorMind_Assessment) · assessment product
-A TypeScript assessment project released under the GNU GPL v3.0.
-
-### [Reac Projects](https://github.com/Larriemoses/Reac_Projects) · frontend practice
-A collection of earlier ReactJS projects and experiments.
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `Supabase` · `AWS`
 
 ## Build philosophy
 
-I take a problem from uncertainty to something useful:
-
-1. Research the problem and its users.
-2. Define a focused product boundary.
-3. Build a simple working system.
-4. Test the experience and the failure cases.
-5. Document what is true, uncertain and worth improving.
+I move from an unclear problem to useful software through research, focused design, implementation, testing and honest documentation.
 
 > Research deeply. Build simply. Explain clearly. Verify before shipping.
-
-## Tools and interests
-
-`TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `Supabase` · `AWS` · `LLM evaluation` · `system design`
-
-AI software engineering · privacy-preserving AI · agentic products · voice interfaces · human-centred AI · product design · technical writing · developer education
 
 ## Let’s build something useful
 
 I’m open to thoughtful collaborations in AI engineering, privacy-aware product development, technical writing, research communication and LLM evaluation.
 
-Explore my [repositories](https://github.com/Larriemoses?tab=repositories), read my [writing](https://larriemoses.medium.com), or connect through [LinkedIn](https://www.linkedin.com/in/olarewajuadebulu).
-
-<p align="center"><sub>Research deeply · build simply · explain clearly · verify before shipping.</sub></p>
+<p align="center"><a href="https://github.com/Larriemoses?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_builds-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories"></a> <a href="mailto:larriemoses@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation"></a></p>
+<p align="center"><sub>Built in Nigeria · curious about the future · serious about useful systems.</sub></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0F766E,100:07111F&height=100&section=footer" width="100%" alt=""></p>
